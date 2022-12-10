@@ -1,0 +1,15 @@
+/Users/hasan/Projects/Huseynli/Huseynli/bin/Debug/net6.0/Huseynli
+/Users/hasan/Projects/Huseynli/Huseynli/bin/Debug/net6.0/Huseynli.deps.json
+/Users/hasan/Projects/Huseynli/Huseynli/bin/Debug/net6.0/Huseynli.runtimeconfig.json
+/Users/hasan/Projects/Huseynli/Huseynli/bin/Debug/net6.0/Huseynli.dll
+/Users/hasan/Projects/Huseynli/Huseynli/bin/Debug/net6.0/Huseynli.pdb
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.csproj.AssemblyReference.cache
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.AssemblyInfoInputs.cache
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.AssemblyInfo.cs
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.dll
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/refint/Huseynli.dll
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.pdb
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/Huseynli.genruntimeconfig.cache
+/Users/hasan/Projects/Huseynli/Huseynli/obj/Debug/net6.0/ref/Huseynli.dll
